@@ -1,0 +1,21 @@
+.header{
+  background-color: aqua;
+  font-weight: bold;
+}
+.paragraph{
+  font-size: x-large;
+  font-family: arial;
+}
+
+.prg{
+  color: red;
+  font-size: large;
+}
+.paragraph2{
+  font-size: x-large;
+  font-family: arial;
+  margin-top: 2px;
+}
+.nav{
+  color:red;
+}
